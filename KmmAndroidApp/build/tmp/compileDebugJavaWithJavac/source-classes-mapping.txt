@@ -1,2 +1,0 @@
-com/yochidros/kmmsample/KmmAndroidApp/BuildConfig.java
- com.yochidros.kmmsample.KmmAndroidApp.BuildConfig
