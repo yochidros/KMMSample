@@ -1,0 +1,2 @@
+com/yochidros/kmmsample/Shared/BuildConfig.java
+ com.yochidros.kmmsample.Shared.BuildConfig
