@@ -489,7 +489,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"KmmiOSApp/Preview Content\"";
-				DEVELOPMENT_TEAM = X25KZ54NYC;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../Shared/build/xcode-frameworks";
 				INFOPLIST_FILE = KmmiOSApp/Info.plist;
@@ -510,7 +510,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"KmmiOSApp/Preview Content\"";
-				DEVELOPMENT_TEAM = X25KZ54NYC;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../Shared/build/xcode-frameworks";
 				INFOPLIST_FILE = KmmiOSApp/Info.plist;
